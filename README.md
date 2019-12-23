@@ -1,8 +1,8 @@
 # Phyton-Network-Automation
 
-topologi jaringan : 
-PC: 192.168.99.99/24 e0/0
-MLS1 : 192.168.99.1/24 e0/0
+topologi jaringan : /n
+PC: 192.168.99.99/24 e0/0 /n
+MLS1 : 192.168.99.1/24 e0/0 /n
 
 //configurasi ip address pada switch
 interface vlan1
